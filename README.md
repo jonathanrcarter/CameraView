@@ -7,7 +7,8 @@ This is a clone of Dino4674's Camera Viwe but I added the fucntion takePic() to 
 - In order to get the callbacks working I copied the code from https://github.com/Appgutta/AGCalendar/tree/master/Classes/View
 - The basic method is documented at https://wiki.appcelerator.org/display/guides/iOS+Module+Development+Guide#iOSModuleDevelopmentGuide-Proxy
 - More important is the proxying was only possible after reading this answer http://developer.appcelerator.com/question/124869/tiviewproxy-sample-code
-
+- The IOS documentation is at http://developer.apple.com/library/ios/#documentation/uikit/reference/UIImagePickerController_Class/UIImagePickerController/UIImagePickerController.html
+- I also used this resource : https://wiki.appcelerator.org/display/guides/iOS+Module+Development+Guide#iOSModuleDevelopmentGuide-CreatingaViewandViewProxy
 
 Usage is:
 
