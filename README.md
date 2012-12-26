@@ -3,7 +3,11 @@ CameraView
 
 This is a clone of Dino4674's Camera Viwe but I added the fucntion takePic() to take a picture
 
-The original can be found at : https://github.com/Dino4674/CameraView
+- The original can be found at : https://github.com/Dino4674/CameraView
+- In order to get the callbacks working I copied the code from https://github.com/Appgutta/AGCalendar/tree/master/Classes/View
+- The basic method is documented at https://wiki.appcelerator.org/display/guides/iOS+Module+Development+Guide#iOSModuleDevelopmentGuide-Proxy
+- More important is the proxying was only possible after reading this answer http://developer.appcelerator.com/question/124869/tiviewproxy-sample-code
+
 
 Usage is:
 
