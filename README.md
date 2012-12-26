@@ -7,6 +7,8 @@ The original can be found at : https://github.com/Dino4674/CameraView
 
 Usage is:
 
+
+
 if (Ti.Media.isCameraSupported == true) {
   var imagePicker = require('ti.camera');
 	camview2 = imagePicker.createView({
