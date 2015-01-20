@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.19
+version: 0.20
 apiversion: 2
 description: My module
 author: Your Name
@@ -15,4 +15,5 @@ name: cameraview
 moduleid: ti.camera
 guid: 8a95d30b-e405-480b-a138-67f012993544
 platform: iphone
-minsdk: 2.0.1.GA2
+minsdk: 3.4.1.GA
+architectures: armv7 arm64 i386 x86_64
